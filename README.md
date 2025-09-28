@@ -5,7 +5,7 @@
 
 
 <h2>:man_technologist: About Me :</h2> 
-<strong>I am a novice specialist in the field of data transportation, storage and processing 👾. To put it simply, I am a novice Data Engineer from Russia.</strong>
+<strong>I am a novice specialist in the field of data transportation, storage and processing 👾. I like analyzing data, finding patterns, and building algorithms.</strong>
 
 - :telescope: I'm currently taking various courses and learning a variety of tools for storing, transporting, and analyzing data.
 
